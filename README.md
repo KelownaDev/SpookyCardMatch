@@ -1,2 +1,2 @@
 # SpookyCardMatch
-A halloween themed card matching game in HTML, CSS and Javascript
+a spooky Halloween card matching game project from a tutorial by PortEXE and WebDev Simplified
